@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/ockr-io/ockr-model-zoo/compare/v0.0.2...v0.0.3) (2023-12-14)
+
+
+### Bug Fixes
+
+* provide file list for pp-ocrv3 model ([8789693](https://github.com/ockr-io/ockr-model-zoo/commit/87896930f70f2718181629c50557fdd517dcf237))
+
 ## [0.0.2](https://github.com/ockr-io/ockr-model-zoo/compare/v0.0.1...v0.0.2) (2023-12-14)
 
 
